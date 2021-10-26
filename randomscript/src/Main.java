@@ -21,7 +21,7 @@ public class Main {
 
     public static void main(String[] args) {
         printScript();
-        // Marianne's code goes here -->
+        // Marianne's code goes here --> If she ever writes any... haha :)
 
 
     }
