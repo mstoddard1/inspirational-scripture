@@ -11,7 +11,7 @@ import java.util.Random;
 //        |____/ \____|_| \_\___|_|    |_|  \___/|_| \_\_____|
 //
 //        Written under the direction and by the power of her majesties special command,
-//        the great crazy Sergeant Marbury II
+//        the great, crazy, Sergeant Marbury II
 
 public class Main {
     public static String[] scriptures = {". . . and whoso would hearken unto the word " +
